@@ -18,5 +18,5 @@ Realizado com suporte de um <a href="https://www.youtube.com/watch?v=FZQxPTV3cFk
 Realizado com suporte de um <a href="https://www.youtube.com/watch?v=9cKsq14Kfsw&list=PL1MK7nFniZZYRV5sign661Pq--3DbF9Bn&index=5&t=1555s">video</a> no Youtube do canal <a href="https://www.youtube.com/channel/UCtXGz0MBuqZUC8rmGddc07Q">Drew Ryan</a>.
 <br>
 <br>
-![127 0 0 ![Site - W3newbie com bootstrap](https://user-images.githubusercontent.com/101279529/167975176-920894ed-851f-4f4d-9232-f1f45bb2a0e2.png)
+![Site - W3newbie com bootstrap](https://user-images.githubusercontent.com/101279529/167975176-920894ed-851f-4f4d-9232-f1f45bb2a0e2.png)
 
