@@ -9,7 +9,7 @@ Realizado com suporte de uma playlist de <a href="https://www.youtube.com/playli
 ![Site - hDC Agency  com bootstrap](https://user-images.githubusercontent.com/101279529/164365443-88450022-0fb8-4269-b2e7-687bc47f2a3b.png)
 
 ### Projeto - <a href="https://github.com/MaxHenriique/Projetos-Bootstrap/tree/main/ROSA">ROSA</a>
-Realizado com suporte de um <a href="https://www.youtube.com/watch?v=FZQxPTV3cFk">video</a> no Youtube do canal <a href="https://www.youtube.com/channel/UCeHWTyAKBv_WnW8gsEKGECw">Julio Codes</a>.
+Realizado com suporte de um <a href="https://www.youtube.com/watch?v=FZQxPTV3cFk">video</a> no Youtube do canal <a href="https://www.youtube.com/channel/UCeHWTyAKBv_WnW8gsEKGECw">Julio Codes</a>. (Não foi ultilizado bootstrap, mas faz parte de uma playlist)
 <br>
 <br>
 ![Site - ROSA html css JavaScript](https://user-images.githubusercontent.com/101279529/167975191-dde8c9cc-dab4-426c-a596-8b01e1df655f.png)
